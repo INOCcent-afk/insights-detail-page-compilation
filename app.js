@@ -103,18 +103,14 @@ desktopContactBtn.addEventListener("click", () => {
   }
 });
 
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
-// !!!!!!!!!!!!! JAVASCRIPT FOR ABOUT PAGE SLIDER !!!!!!!!!!!!!!!
+// !!!!!!!!!!!!! JAVASCRIPT FOR INSIGHTS  SLIDER !!!!!!!!!!!!!!!
+// !!!!!!!!!!!!! JAVASCRIPT FOR INSIGHTS  SLIDER !!!!!!!!!!!!!!!
+// !!!!!!!!!!!!! JAVASCRIPT FOR INSIGHTS  SLIDER !!!!!!!!!!!!!!!
+// !!!!!!!!!!!!! JAVASCRIPT FOR INSIGHTS  SLIDER !!!!!!!!!!!!!!!
+// !!!!!!!!!!!!! JAVASCRIPT FOR INSIGHTS  SLIDER !!!!!!!!!!!!!!!
+// !!!!!!!!!!!!! JAVASCRIPT FOR INSIGHTS  SLIDER !!!!!!!!!!!!!!!
 
-var myAboutPageSwiper = new Swiper(".gallery-light-v1-container", {
+var myInsightsDetailpageSwiper = new Swiper(".gallery-light-v1-container", {
   speed: 400,
   slidesPerView: 1.2,
   spaceBetween: 20,
